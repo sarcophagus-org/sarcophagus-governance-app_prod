@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/govern.sarcophagus.io/static/css/main.a17e1cde.chunk.css",
-    "main.js": "/govern.sarcophagus.io/static/js/main.24f58178.chunk.js",
-    "main.js.map": "/govern.sarcophagus.io/static/js/main.24f58178.chunk.js.map",
-    "runtime-main.js": "/govern.sarcophagus.io/static/js/runtime-main.5437bb73.js",
-    "runtime-main.js.map": "/govern.sarcophagus.io/static/js/runtime-main.5437bb73.js.map",
-    "static/css/2.8408bc14.chunk.css": "/govern.sarcophagus.io/static/css/2.8408bc14.chunk.css",
-    "static/js/2.877b23ff.chunk.js": "/govern.sarcophagus.io/static/js/2.877b23ff.chunk.js",
-    "static/js/2.877b23ff.chunk.js.map": "/govern.sarcophagus.io/static/js/2.877b23ff.chunk.js.map",
-    "static/js/3.aaeefe56.chunk.js": "/govern.sarcophagus.io/static/js/3.aaeefe56.chunk.js",
-    "static/js/3.aaeefe56.chunk.js.map": "/govern.sarcophagus.io/static/js/3.aaeefe56.chunk.js.map",
-    "index.html": "/govern.sarcophagus.io/index.html",
-    "static/css/2.8408bc14.chunk.css.map": "/govern.sarcophagus.io/static/css/2.8408bc14.chunk.css.map",
-    "static/css/main.a17e1cde.chunk.css.map": "/govern.sarcophagus.io/static/css/main.a17e1cde.chunk.css.map",
-    "static/js/2.877b23ff.chunk.js.LICENSE.txt": "/govern.sarcophagus.io/static/js/2.877b23ff.chunk.js.LICENSE.txt",
-    "static/media/icon.081a5d9a.svg": "/govern.sarcophagus.io/static/media/icon.081a5d9a.svg",
-    "static/media/logo.46d0239c.png": "/govern.sarcophagus.io/static/media/logo.46d0239c.png",
-    "static/media/index.css": "/govern.sarcophagus.io/static/media/roboto-mono-v12-latin-regular.535bc89d.woff2",
-    "static/media/wallet.7d4fae45.svg": "/govern.sarcophagus.io/static/media/wallet.7d4fae45.svg"
+    "main.css": "/static/css/main.19fbfa22.chunk.css",
+    "main.js": "/static/js/main.12d88d70.chunk.js",
+    "main.js.map": "/static/js/main.12d88d70.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fa76f74b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fa76f74b.js.map",
+    "static/css/2.8408bc14.chunk.css": "/static/css/2.8408bc14.chunk.css",
+    "static/js/2.45567409.chunk.js": "/static/js/2.45567409.chunk.js",
+    "static/js/2.45567409.chunk.js.map": "/static/js/2.45567409.chunk.js.map",
+    "static/js/3.aaeefe56.chunk.js": "/static/js/3.aaeefe56.chunk.js",
+    "static/js/3.aaeefe56.chunk.js.map": "/static/js/3.aaeefe56.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.8408bc14.chunk.css.map": "/static/css/2.8408bc14.chunk.css.map",
+    "static/css/main.19fbfa22.chunk.css.map": "/static/css/main.19fbfa22.chunk.css.map",
+    "static/js/2.45567409.chunk.js.LICENSE.txt": "/static/js/2.45567409.chunk.js.LICENSE.txt",
+    "static/media/icon.081a5d9a.svg": "/static/media/icon.081a5d9a.svg",
+    "static/media/logo.46d0239c.png": "/static/media/logo.46d0239c.png",
+    "static/media/index.css": "/static/media/roboto-mono-v12-latin-regular.535bc89d.woff2",
+    "static/media/wallet.7d4fae45.svg": "/static/media/wallet.7d4fae45.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5437bb73.js",
+    "static/js/runtime-main.fa76f74b.js",
     "static/css/2.8408bc14.chunk.css",
-    "static/js/2.877b23ff.chunk.js",
-    "static/css/main.a17e1cde.chunk.css",
-    "static/js/main.24f58178.chunk.js"
+    "static/js/2.45567409.chunk.js",
+    "static/css/main.19fbfa22.chunk.css",
+    "static/js/main.12d88d70.chunk.js"
   ]
 }
